@@ -17,9 +17,9 @@ import java.util.logging.Logger;
  *
  * @author Acer
  */
-public class LogIn {
-    String forname=  "com.mysql.jdbc.Driver";
-   String driver = "jdbc:mysql://localhost/bsit23";
+public class loginClass {
+     String forname=  "com.mysql.jdbc.Driver";
+   String driver = "jdbc:mysql://localhost/bsit21";
    String us = "root";
    String ps1 ="";
    String name;
